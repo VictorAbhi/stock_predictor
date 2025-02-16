@@ -1,0 +1,15 @@
+Cython==0.29.36
+statsmodels==0.13.5
+matplotlib==3.5.3
+seaborn==0.11.2
+scikit-learn==1.2.2
+numpy==1.24.0
+pandas==1.5.2
+prophet==1.1.1
+tensorflow==2.10.0
+keras==2.10.0
+streamlit==1.18.0
+protobuf==3.19.6
+altair==4.2.2
+selenium
+beautifulsoup4
